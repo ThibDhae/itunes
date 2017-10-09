@@ -1,0 +1,67 @@
+.container .mx-auto{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: 4px solid grey;
+    
+}
+h1 {
+	font-family: 'Droid Serif', Georgia, Times, serif;
+	font-size: 60px;
+	line-height: 100px;
+}
+h2 {
+	font-family: 'Droid Serif', Georgia, Times, serif;
+	font-size: 40px;
+	line-height:30px;
+}
+h3 {
+	font-family: 'Droid Sans', Georgia, Times, serif;
+	font-size: 22px;
+	line-height:30px;
+}
+
+ 
+p {
+	font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 17px;
+}
+.btn-success {
+    margin-bottom: 20px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    background-color: grey;
+    margin-bottom: 20px
+}
+body {
+    background-color: grey;
+    display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    margin-bottom: 40px;
+}
+.container {
+    background-color: lightgray;
+    padding-top: 20px;
+    border-radius: 5px 5px 0px 0px;
+}
+nav{
+    height:40px;
+    margin: auto;
+}
+nav a{
+    float:none
+
+}
+.footer-icons {
+    float:none;
+    max-width: 200px;
+    margin:0 auto;
+    
+}
+table {
+    overflow: hidden;
+}
